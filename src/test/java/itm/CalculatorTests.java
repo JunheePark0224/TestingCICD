@@ -12,7 +12,7 @@ import itm.oss.Calculator;
 public class CalculatorTests{
 
     private final Calculator calc = new Calculator();
-
+    
     @Test
     @DisplayName("Test for add function")
     void add(){
